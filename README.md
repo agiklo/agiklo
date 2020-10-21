@@ -8,6 +8,11 @@ I'm a Software Engineer who is studying a BSc in Computer Science. I like to tak
   * Effective Java 3rd Edition by Joshua Blo
   * Clean Code by Robert C. Martin
   * Grokking Algorithms by Aditya Bhargava
+## Hobbies
+☕️ Coffee lover </br>
+🏋️‍♂️ I exercise sometimes </br>
+👨‍🍳 Cooking delicious vegetarian food </br>
+
 ## Connect with Me
 - [Portfolio](https://agiklo.github.io/mMilewczyk/) <br/>
 - [Instagram](https://www.instagram.com/mvteusz.m) <br/>
