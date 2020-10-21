@@ -11,7 +11,7 @@ Currently, I don't work professionally, I deepen my knowledge every day to becom
   * Grokking Algorithms by Aditya Bhargava
 ## Hobbies
 ☕️ Coffee lover </br>
-🏋️‍♂️ I exercise sometimes </br>
+🏋️‍♂️ I workout sometimes </br>
 👨‍🍳 Cooking delicious vegetarian food </br>
 
 ## Connect with Me
