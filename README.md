@@ -4,7 +4,7 @@ Currently, I don't work professionally, I deepen my knowledge every day to becom
 
 ## Development
 - 👨🏻‍💻 I’m currently learning Java, Spring and C++
-- 📚 I’m currently reading:
+- 📚 I’m reading:
   * Spring in Action, Fifth Edition by Craig Walls
   * Effective Java 3rd Edition by Joshua Blo
   * Clean Code by Robert C. Martin
