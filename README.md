@@ -6,7 +6,7 @@ Currently, I don't work professionally, I deepen my knowledge every day to becom
 - 👨🏻‍💻 I’m currently learning Java, Spring and C++
 - 📚 I’m reading:
   * Spring in Action, 5th Edition by Craig Walls
-  * Effective Java 3rd Edition by Joshua Blo
+  * Effective Java 3rd Edition by Joshua Bloch
   * Clean Code by Robert C. Martin
   * Grokking Algorithms by Aditya Bhargava
 ## Hobbies
