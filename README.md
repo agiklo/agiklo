@@ -9,10 +9,6 @@ Currently, I don't work professionally, I deepen my knowledge every day to becom
   * Effective Java 3rd Edition by Joshua Bloch
   * Clean Code by Robert C. Martin
   * Grokking Algorithms by Aditya Bhargava
-## Hobbies
-☕️ Coffee lover </br>
-🏋️‍♂️ I workout sometimes </br>
-👨‍🍳 Cooking delicious vegetarian food </br>
 
 ## Connect with Me
 - [Portfolio](https://agiklo.github.io/mMilewczyk/) <br/>
