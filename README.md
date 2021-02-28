@@ -3,7 +3,7 @@ I'm a Software Engineer who is studying a BSc in Computer Science. I like to tak
 Currently, I don't work professionally, I deepen my knowledge every day to become a master one day. 🚀
 
 ## Development
-- 👨🏻‍💻 I’m currently learning Java, Spring and C++
+- 👨🏻‍💻 I’m currently learning Java, Spring and Python
 - 📚 I’m reading:
   * Spring in Action, 5th Edition by Craig Walls
   * Effective Java 3rd Edition by Joshua Bloch
