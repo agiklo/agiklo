@@ -7,4 +7,4 @@
  -  Grokking Algorithms by Aditya Bhargava
  -  Spring in Action, 5th Edition by Craig Walls
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mmilewczyk/">Connect with me via Linkedin</a>
+<a href="https://www.linkedin.com/in/mmilewczyk/">Connect with me via Linkedin</a>
