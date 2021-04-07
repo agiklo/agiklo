@@ -5,8 +5,9 @@
 📚 Books I learn from:
 - Effective Java 3rd Edition by Joshua Bloch 
 - Clean Code by Robert C. Martin 
-- Grokking Algorithms by Aditya Bhargava
 - Spring in Action, 5th Edition by Craig Walls
+- Head First Design Patterns by Eric Freeman, Elisabeth Robson
+- Grokking Algorithms by Aditya Bhargava
 ```
 
 <a href="https://www.linkedin.com/in/mmilewczyk/">Connect with me via Linkedin</a>
